@@ -2,4 +2,4 @@
 
 Flutter app using https://openweathermap.org/api
 ### Demo
-![](flutter_climate.gif)
+![](flutter_climate_cropped.gif)
